@@ -1,15 +1,5 @@
-<style>
-  @font-face
-{
-	font-family:font;
-	src: url('https://secure-mcpc.github.io/font/enchant.ttf')
-}
 
-p.ect
-{
-	font-family:font;
-}</style>
-<p class="ect">Does anyone really read this</p>
+<p style="@font-face:font-family:font;src: url('https://secure-mcpc.github.io/font/enchant.ttf')">Does anyone really read this</p>
 
 
 
